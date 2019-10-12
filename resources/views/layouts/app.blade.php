@@ -1,10 +1,4 @@
-{{--/**--}}
- {{--* Created by PhpStorm.--}}
- {{--* User: sinovine--}}
- {{--* Date: 2019/10/10--}}
- {{--* Time: 17:06--}}
- {{--*/--}}
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ app()->getLocale() }}">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>@yield('title','larabbs6')</title>
+    <title>@yield('title','larabbs6') - wandx </title>
 
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 </head>
@@ -30,4 +24,4 @@
 
     <script src="{{ mix('js/app.js') }}"></script>
 </body>
-</html>DOCTYPE
+</html>
