@@ -310,9 +310,9 @@
       <path value="$PROJECT_DIR$/vendor/overtrue/laravel-lang" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="553" />
-    <option name="y" value="137" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="558" />
+    <option name="y" value="80" />
     <option name="width" value="1394" />
     <option name="height" value="938" />
   </component>
