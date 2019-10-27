@@ -8,6 +8,7 @@
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>@yield('title','larabbs6') - wandx </title>
+    <meta name="description" content="@yield('description', 'wandx')">
 
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 
