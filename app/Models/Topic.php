@@ -54,6 +54,6 @@ class Topic extends Model
     //
     public function replies()
     {
-        return $this->hasMa(Reply::class);
+        return $this->hasMany(Reply::class);
     }
 }
